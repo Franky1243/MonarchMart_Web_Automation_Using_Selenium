@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-03T21:38:33 BDT" name="Suite" finished-at="2023-02-03T21:39:38 BDT" duration-ms="64548">
+    <groups>
+    </groups>
+    <test started-at="2023-02-03T21:38:33 BDT" name="Registration_Test" finished-at="2023-02-03T21:39:05 BDT" duration-ms="32013">
+      <class name="registration_Process.Register">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:registration_Process.Register@47af7f3d]" started-at="2023-02-03T21:38:33 BDT" name="initialize" finished-at="2023-02-03T21:38:48 BDT" duration-ms="14815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="register()[pri:0, instance:registration_Process.Register@47af7f3d]" started-at="2023-02-03T21:38:48 BDT" name="register" finished-at="2023-02-03T21:38:49 BDT" duration-ms="907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:registration_Process.Register@47af7f3d]" started-at="2023-02-03T21:38:49 BDT" name="closeBrowser" finished-at="2023-02-03T21:39:05 BDT" duration-ms="16267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- registration_Process.Register -->
+    </test> <!-- Registration_Test -->
+    <test started-at="2023-02-03T21:39:05 BDT" name="Login_Test" finished-at="2023-02-03T21:39:38 BDT" duration-ms="32519">
+      <class name="registration_Process.Login">
+        <test-method is-config="true" signature="initalize()[pri:0, instance:registration_Process.Login@436813f3]" started-at="2023-02-03T21:39:05 BDT" name="initalize" finished-at="2023-02-03T21:39:17 BDT" duration-ms="11932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initalize -->
+        <test-method signature="login()[pri:0, instance:registration_Process.Login@436813f3]" started-at="2023-02-03T21:39:17 BDT" name="login" finished-at="2023-02-03T21:39:22 BDT" duration-ms="4328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closeBrower()[pri:0, instance:registration_Process.Login@436813f3]" started-at="2023-02-03T21:39:22 BDT" name="closeBrower" finished-at="2023-02-03T21:39:38 BDT" duration-ms="16259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrower -->
+      </class> <!-- registration_Process.Login -->
+    </test> <!-- Login_Test -->
+  </suite> <!-- Suite -->
+</testng-results>
