@@ -1,9 +1,9 @@
-#MonarchMart-Web-Automation-Using-Selenium
+# MonarchMart-Web-Automation-Using-Selenium
 
-#Technology Used
+# Technology Used
 
--Test tool: Selenium
--Language: Java
--Architecture: POM
--Framework: TestNG
--IDE: STS
+- Test Tool : Selenium
+- Language : Java
+- Architecture : POM
+- Frameword : TestNG
+- IDE : STS
